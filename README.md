@@ -13,4 +13,4 @@ Personal Projects:
 
 - Reddit Data Pipelines Creation & Sentiment Analysis of Reddit Comments: [Wallstreetbets-Sentiment-Analysis](https://github.com/ybangaru/wallstreetbets-sentiment-analysis)
 - Applying RandomForestRegressor on multiple stocks simultaneously, Portfolio Management: [Long-Short-Equities](https://github.com/ybangaru/long-short-equities)
-- Webscraping fixes data from multiple websites to predict the outcomes of Premier League: [Premier-League-Prediction](https://github.com/ybangaru/premier-league)
+- Webscraping fixes data from multiple websites to predict the outcomes of Premier League matches: [Premier-League-Prediction](https://github.com/ybangaru/premier-league)
