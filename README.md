@@ -2,7 +2,6 @@
 
 Let me use some ideas that GitHub suggests:
 
-- 🔭 I’m currently working on Text Data Analytics (NLP)
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything coding!
