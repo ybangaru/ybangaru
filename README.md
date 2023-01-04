@@ -10,7 +10,7 @@ Let me use some GitHub format suggestions ;)
 
 Personal Projects:
 
-- Climate and Electricity data interactions visualized along with a prototype of Prophet package for time-series predictions [Climate-Trydan-Dashboard](https://share.streamlit.io/ybangaru/climate-trydan/dev_deploy/climate_trydan/app.py)
+- Climate and Electricity data interactions visualized along with a prototype of Prophet package for time-series predictions [Climate-Trydan-Dashboard](https://github.com/ybangaru/climate-trydan)
 - Reddit Data Pipelines Creation & Sentiment Analysis of Reddit Comments: [Wallstreetbets-Sentiment-Analysis](https://github.com/ybangaru/wallstreetbets-sentiment-analysis)
 - Applying RandomForestRegressor on multiple stocks simultaneously, Portfolio Management: [Long-Short-Equities](https://github.com/ybangaru/long-short-equities)
 - Webscraping fixes data from multiple websites to predict the outcomes of Premier League matches: [Premier-League-Prediction](https://github.com/ybangaru/premier-league)
