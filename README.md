@@ -10,7 +10,7 @@ Let me use some GitHub format suggestions ;)
 
 Personal Projects:
 
-- Clustering and Graph Classification of Mouse liver cellular tissue [Spatial-Transcriptomics](https://github.com/ybangaru/spatial_transcriptomics)
+- Clustering and Graph Classification of Mouse liver cellular tissue [Spatial-Transcriptomics](https://github.com/ybangaru/GeneNetworks)
 - Climate and Electricity data interactions visualized along with a prototype of Prophet package for time-series predictions [Climate-Trydan-Dashboard](https://github.com/ybangaru/climate-trydan)
 - Reddit Data Pipelines Creation & Sentiment Analysis of Reddit Comments: [Wallstreetbets-Sentiment-Analysis](https://github.com/ybangaru/wallstreetbets-sentiment-analysis)
 - Applying RandomForestRegressor on multiple stocks simultaneously, Portfolio Management: [Long-Short-Equities](https://github.com/ybangaru/long-short-equities)
